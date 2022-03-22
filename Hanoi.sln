@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hanoi", "Hanoi\Hanoi.vcxproj", "{A97B9168-5221-4FD9-A46D-51B6B89CFBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97B9168-5221-4FD9-A46D-51B6B89CFBBC}.Debug|x64.ActiveCfg = Debug|x64
+		{A97B9168-5221-4FD9-A46D-51B6B89CFBBC}.Debug|x64.Build.0 = Debug|x64
+		{A97B9168-5221-4FD9-A46D-51B6B89CFBBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{A97B9168-5221-4FD9-A46D-51B6B89CFBBC}.Debug|x86.Build.0 = Debug|Win32
+		{A97B9168-5221-4FD9-A46D-51B6B89CFBBC}.Release|x64.ActiveCfg = Release|x64
+		{A97B9168-5221-4FD9-A46D-51B6B89CFBBC}.Release|x64.Build.0 = Release|x64
+		{A97B9168-5221-4FD9-A46D-51B6B89CFBBC}.Release|x86.ActiveCfg = Release|Win32
+		{A97B9168-5221-4FD9-A46D-51B6B89CFBBC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C7277CE-60F6-4A31-A138-B3B888F95C9E}
+	EndGlobalSection
+EndGlobal

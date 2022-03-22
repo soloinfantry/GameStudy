@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\wmqkq\source\repos\Hanoi\Hanoi\소스.cpp(12,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\wmqkq\source\repos\Hanoi\Hanoi\소스.cpp(12,21): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\wmqkq\source\repos\Hanoi\Hanoi\소스.cpp(226,9): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  Hanoi.vcxproj -> C:\Users\wmqkq\source\repos\Hanoi\Debug\Hanoi.exe
